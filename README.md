@@ -6,25 +6,6 @@
 Это учебный проект Хекслета: https://ru.hexlet.io/programs/qa-engineer
 Как это должно работать: https://codebattle.hexlet.io/
 
-## Стек
-
-- Разное
-
-## Установка
-
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
-
-```bash
-git clone https://github.com/mutexxx-pixel/qa-engineer-project-85.git
-cd qa-engineer-project-85
-```
-
-## Использование
-
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
----
-
 <details>
 <summary>Автоматические тесты Хекслета</summary>
 
