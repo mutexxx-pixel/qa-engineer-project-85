@@ -2,9 +2,8 @@
 
 [![hexlet-check](https://github.com/mutexxx-pixel/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/mutexxx-pixel/qa-engineer-project-85/actions)
 
-Протестируйте проект, который уже работает в продакшене
 
-Учебный проект Хекслета: https://ru.hexlet.io/programs/qa-engineer
+Это учебный проект Хекслета: https://ru.hexlet.io/programs/qa-engineer
 Как это должно работать: https://codebattle.hexlet.io/
 
 ## Стек
