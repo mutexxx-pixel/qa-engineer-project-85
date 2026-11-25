@@ -33,25 +33,36 @@
 
 - summary: |
     Упешное отображение сайта на мобильном устройстве
-  status: fail
-
-- summary: |
   status: pass
 
 - summary: |
-  status: fail
-
-- summary: |
+    Отправка оповещения о завершении игры
   status: pass
 
 - summary: |
-  status: fail
-
-- summary: |
+    Успешная отправка сообщения во внутреннем чате
   status: pass
 
 - summary: |
-  status: fail
+    Проверка защиты чата от внедрения HTML/скриптов
+  status: pass
 
 - summary: |
+    Наличие личного кабинет и журнала сыгранных игр
+  status: pass
+
+- summary: |
+    Наличие таблицы рейтинга игроков
+  status: pass
+
+- summary: |
+    Успешный переход из рейтинга в профиль игрока
+  status: pass
+
+- summary: |
+    Совместимость сайта с разными браузерами
+  status: pass
+
+- summary: |
+    Успешный выход из аккаунта и режим 'Offline'
   status: pass
