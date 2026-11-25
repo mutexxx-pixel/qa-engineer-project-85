@@ -1,0 +1,57 @@
+---
+- summary: |
+    Неудачная регистраци
+  status: pass
+
+- summary: |
+    Неудачная вставка текста в поле кода во время игры
+  status: pass
+  
+- summary: |
+    Успешный вход пользователя с существующей учетной записью
+  status: pass
+
+- summary: |
+    Неудачный вход пользователя с неверными данными
+  status: pass
+
+- summary: |
+    Проверка использования защищенного соединения
+  status: pass
+
+- summary: |
+    Успешная смена языка программирования в процессе игры
+  status: pass
+
+- summary: |
+    Успешное восстановление игровой сессии по ID
+  status: pass
+
+- summary: |
+    Проверка отсутствия таймера на победу в игре
+  status: fail
+
+- summary: |
+    Упешное отображение сайта на мобильном устройстве
+  status: fail
+
+- summary: |
+  status: pass
+
+- summary: |
+  status: fail
+
+- summary: |
+  status: pass
+
+- summary: |
+  status: fail
+
+- summary: |
+  status: pass
+
+- summary: |
+  status: fail
+
+- summary: |
+  status: pass
